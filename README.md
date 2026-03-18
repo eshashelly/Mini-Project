@@ -1,4 +1,5 @@
-Visualization Descriptions and Insights
+# Electric Vehicle Data Visualization: Descriptions and Insights
+
 1. Total Electric Vehicles (KPI Card)
 
 This KPI card represents the total electric range contribution of all electric vehicles in the dataset, which is approximately 11 million. This value indicates the overall scale of electric vehicle performance captured in the dataset. The large total suggests that electric vehicles have become increasingly common and contribute significantly to sustainable transportation systems. This metric provides a quick overview of the overall EV capacity and highlights the growing importance of electric mobility in the automotive industry.
